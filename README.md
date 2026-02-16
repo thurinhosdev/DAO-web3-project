@@ -56,6 +56,7 @@ A Future Builders DAO será estruturada com:
 - Distribuição transparente de recursos
 
 Modelo conceitual inspirado em estruturas como MakerDAO e Aragon.
+<img width="1023" height="92" alt="governance-flow drawio (1)" src="https://github.com/user-attachments/assets/ef8242d9-8692-4d3e-a5fc-0f223ef6b849" />
 
 ---
 
